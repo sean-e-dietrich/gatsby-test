@@ -10,7 +10,7 @@ class Index extends React.Component {
     return (
       <Template>
         <div>
-          <p>Hello!!!</p>
+          <div>Hello world How are you!! GO HERE</div>
         </div>
       </Template>
     )
