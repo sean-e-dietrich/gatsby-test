@@ -59,7 +59,7 @@ module.exports = {
       }
     },
     `gatsby-plugin-react-helmet`,
-    "gatsby-remark-embed-video",
+    "gatsby-remark-better-embed-video",
     "gatsby-remark-responsive-iframe",
     `gatsby-plugin-netlify`, // always keep as the last plugin
   ]
